@@ -11,3 +11,5 @@ Ollama: Debes tener Ollama instalado y funcionando localmente, con el modelo mis
 # ejecución
 py chatbot.py
 
+# en el log se almacena el resultado del test
+
