@@ -1,0 +1,55 @@
+2025-02-21 12:06:49,697 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-02-21 12:06:49,883 - INFO - Entrada: Cuál es la capital de Francia?
+A) Londres
+B) París
+C) Berlín
+D) Roma
+2025-02-21 12:06:49,883 - INFO - Respuesta:  B) París 
+2025-02-21 12:06:49,883 - INFO - Tiempo de respuesta: 0.00000120 segundos
+2025-02-21 12:06:49,883 - INFO - Pregunta: Cuál es la capital de Francia?
+A) Londres
+B) París
+C) Berlín
+D) Roma
+2025-02-21 12:06:49,883 - INFO - Respuesta correcta: b
+2025-02-21 12:06:49,883 - INFO - Respuesta del modelo:  B) París 
+2025-02-21 12:06:49,883 - INFO - Evaluación: True
+2025-02-21 12:06:49,883 - INFO - Tiempo: 2.76758950 segundos
+2025-02-21 12:06:49,994 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-02-21 12:06:50,246 - INFO - Entrada: Si todos los gatos son mamíferos y todos los mamíferos respiran, entonces todos los gatos:
+A) Vuelan
+B) Respiran
+C) Nadar
+D) No respiran
+2025-02-21 12:06:50,246 - INFO - Respuesta:  B) Respiran 
+2025-02-21 12:06:50,246 - INFO - Tiempo de respuesta: 0.00000120 segundos
+2025-02-21 12:06:50,246 - INFO - Pregunta: Si todos los gatos son mamíferos y todos los mamíferos respiran, entonces todos los gatos:
+A) Vuelan
+B) Respiran
+C) Nadar
+D) No respiran
+2025-02-21 12:06:50,246 - INFO - Respuesta correcta: b
+2025-02-21 12:06:50,246 - INFO - Respuesta del modelo:  B) Respiran 
+2025-02-21 12:06:50,246 - INFO - Evaluación: True
+2025-02-21 12:06:50,246 - INFO - Tiempo: 0.36314250 segundos
+2025-02-21 12:06:50,514 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-02-21 12:06:50,685 - INFO - Entrada: Que color es el cielo?
+A) verde
+B) rojo
+C) azul
+D) amarillo
+2025-02-21 12:06:50,685 - INFO - Respuesta:  C) azul 
+2025-02-21 12:06:50,685 - INFO - Tiempo de respuesta: 0.00000090 segundos
+2025-02-21 12:06:50,685 - INFO - Pregunta: Que color es el cielo?
+A) verde
+B) rojo
+C) azul
+D) amarillo
+2025-02-21 12:06:50,685 - INFO - Respuesta correcta: c
+2025-02-21 12:06:50,685 - INFO - Respuesta del modelo:  C) azul 
+2025-02-21 12:06:50,685 - INFO - Evaluación: True
+2025-02-21 12:06:50,685 - INFO - Tiempo: 0.43849880 segundos
+2025-02-21 12:06:50,685 - INFO - Precisión total: 1.0000
+2025-02-21 12:06:50,685 - INFO - Tiempo promedio: 1.18974360 segundos
+2025-02-21 12:06:50,685 - INFO - -----------------------------
+2025-02-21 12:06:50,685 - INFO - Nivel de comprensión: Excelente
