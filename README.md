@@ -13,3 +13,11 @@ py chatbot.py
 
 # en el log se almacena el resultado del test
 
+# otros ejemplos de benchmark de LLMs
+
+https://github.com/chandar-lab/SubGoal_Distillation_LLM
+
+https://research.ibm.com/blog/evaluating-common-sense-in-ai
+
+https://paperswithcode.com/task/semantic-segmentation
+
